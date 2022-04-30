@@ -3,12 +3,13 @@ body {background-color:black;
       color:white;
 }
 h1{color:grey;
-  font-family:verdana;        
+  font-family:verdana;
+  align:center;
 }
 .maindiv{background-color:white;
           color:black;
-          width:300px;
-          padding:20px;
+          width:400px;
+          padding:30px;
           border-radius:25px;
           align:center;
 }
